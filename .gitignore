@@ -1,2 +1,10 @@
 .DS_Store
 Thumbs.db
+
+### Comunes a los 12 repositorios de RutaExpress ###
+target/
+node_modules/
+.env
+bin/
+.idea/
+.vscode/
